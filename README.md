@@ -10,7 +10,7 @@ The output would be:
 
 - a structural representation traceroute of the top 1 source.
 
-## ## Example of the output:
+## Output
 
 ```
 Please enter the PCAP file path: /Users/bogdanyavorskyy/Desktop/temp/pcap/captures/qi_local_SYNACK_slashdot_redirect.pcap
