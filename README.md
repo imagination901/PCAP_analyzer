@@ -8,6 +8,7 @@ The output would be:
 - a structural representation traceroute of the top 1 source.
 
 Example of the output:
+'''
 Please enter the PCAP file path: /Users/bogdanyavorskyy/Desktop/temp/pcap/captures/qi_local_SYNACK_slashdot_redirect.pcap
 
 Source packets: 
@@ -41,14 +42,16 @@ Received 94 packets, got 30 answers, remaining 2 packets
 10 185.6.87.225    11 
 11 185.6.85.129    11 
 12 185.6.85.2      SA 
+'''
 
 ## How to use
 You should run this program as follows:
-
-> cd dest_directory
-> pip3 install scapy
-> sudo python3 main.py
-> Enter the path to the PCAP file after the prompt:
-> Please enter the PCAP file path: /File/path/file_to_analyze.pcap
+'''
+cd dest_directory
+pip3 install scapy
+sudo python3 main.py
+Enter the path to the PCAP file after the prompt:
+Please enter the PCAP file path: /File/path/file_to_analyze.pcap
+'''
 
 ## All of the PCAP files used are open sourced
