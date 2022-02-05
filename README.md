@@ -13,7 +13,7 @@ The output would be:
 ## Output
 
 ```
-Please enter the PCAP file path: /Users/bogdanyavorskyy/Desktop/temp/pcap/captures/qi_local_SYNACK_slashdot_redirect.pcap
+Please enter the PCAP file path: /Users/User/temp/pcap/captures/qi_local_SYNACK_slashdot_redirect.pcap
 
 Source packets: 
 Source packets from IP: 185.6.85.2, count: 876
